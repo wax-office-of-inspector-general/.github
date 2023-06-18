@@ -1,4 +1,12 @@
-# WAX OIG 
+<h1 align="center">
+  WAX OIG
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wax-office-of-inspector-general/.github/b2021f1e84325276e469abdfd7c02ef6cac7d739/assets/oig-crest.svg" width="300" />
+</p>
+
+&nbsp;
 
 Welcome to the official Code Repository for the Office of the Inspector General (OIG). This repository serves as a centralized hub for storing and sharing code developed by the OIG team to enhance the efficiency, transparency, and effectiveness of our operations.
 
