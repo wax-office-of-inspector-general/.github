@@ -28,6 +28,8 @@ The IGs collaborate to handle the responsibilities of the office, issuing detail
   <a href="https://www.notion.so/Guild-Ratings-0e51defdf10641748a253ccc7f5146b1">OIG Notion</a>
   ——
   <a href="https://oig.wax.io/">OIG website</a>
+  ——
+  <a href="https://github.com/wax-office-of-inspector-general/waxguilds/wiki">WAX Wiki</a>
 </p>
 
 &nbsp;
