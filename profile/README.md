@@ -1,7 +1,3 @@
-<h1 align="center">
-  WAX OIG
-</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/wax-office-of-inspector-general/.github/b2021f1e84325276e469abdfd7c02ef6cac7d739/assets/oig-crest.svg" width="300" />
 </p>
