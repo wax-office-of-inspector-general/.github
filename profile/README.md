@@ -25,7 +25,7 @@ The IGs collaborate to handle the responsibilities of the office, issuing detail
   ——
   <a href="https://oig.wax.io/">OIG website</a>
   ——
-  <a href="https://github.com/wax-office-of-inspector-general/waxguilds/wiki/WAX-OIG-Wiki">WAX OIG Wiki</a>
+  <a href="https://github.com/wax-office-of-inspector-general/waxguilds/wiki/">WAX OIG Wiki</a>
 </p>
 
 &nbsp;
