@@ -16,15 +16,25 @@ The IGs collaborate to handle the responsibilities of the office, issuing detail
 
 <p align="center">
   <a href="https://github.com/orgs/wax-office-of-inspector-general/discussions">📢 OIG Announcements</a>
-  —— 
+  <br/>
+  ——
+  <br/>
   <a href="https://github.com/orgs/wax-office-of-inspector-general/projects/1">OIG Backlog</a>
-  —— 
+  <br/>
+  ——
+  <br/>
   <a href="https://github.com/wax-office-of-inspector-general/waxguilds">WAX Guilds</a>
-  —— 
+  <br/>
+  ——
+  <br/>
   <a href="https://www.notion.so/Guild-Ratings-0e51defdf10641748a253ccc7f5146b1">OIG Notion</a>
+  <br/>
   ——
+  <br/>
   <a href="https://oig.wax.io/">OIG website</a>
+  <br/>
   ——
+  <br/>
   <a href="https://github.com/wax-office-of-inspector-general/waxguilds/wiki/">WAX OIG Wiki</a>
 </p>
 
@@ -34,12 +44,14 @@ The IGs collaborate to handle the responsibilities of the office, issuing detail
 
 <p align="center">
   <a href="https://developer.wax.io/">WAX Developer</a>
-  —— 
-  <a href="https://github.com/wax-office-of-inspector-general/wax-developer">Repository</a>
+  <br/>
+  ——
+  <br/>
+  <a href="https://github.com/wax-office-of-inspector-general/wax-developer">Project Repository</a>
 </p>
 
 &nbsp;
 
 This repository serves as a centralized hub for storing and sharing code developed by the OIG team to enhance the efficiency, transparency, and effectiveness of our operations. A testament to our commitment to open-source principles, collaboration, and knowledge sharing.
 
-By centralizing our code in this repository, we aim to foster collaboration both within the OIG and with external stakeholders. We encourage fellow government agencies, researchers, developers, and interested individuals to explore our projects, contribute to their development, and utilize them to advance their own initiatives in the public sector.
+By centralizing our code in this repository, we aim to foster collaboration both within the OIG and and with fellow community members. We encourage developers, marketeers and interested individuals to explore our projects, contribute to their development, and utilize them to advance their own initiatives on WAX
