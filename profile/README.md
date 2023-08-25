@@ -54,4 +54,4 @@ The IGs collaborate to handle the responsibilities of the office, issuing detail
 
 This repository serves as a centralized hub for storing and sharing code developed by the OIG team to enhance the efficiency, transparency, and effectiveness of our operations. A testament to our commitment to open-source principles, collaboration, and knowledge sharing.
 
-By centralizing our code in this repository, we aim to foster collaboration both within the OIG and and with fellow community members. We encourage developers, marketeers and interested individuals to explore our projects, contribute to their development, and utilize them to advance their own initiatives on WAX
+By centralizing our code in this repository, we aim to foster collaboration both within the OIG and with fellow community members. We encourage developers, marketeers and interested individuals to explore our projects, contribute to their development, and utilize them to advance their own initiatives on WAX
